@@ -1,4 +1,4 @@
-# Cosmic-Reach-Wayland
+# Cosmic Reach Wayland
 Wayland Support For Cosmic Reach. Now as a Fabric Mod!
 </br></br>See [https://github.com/Alex-MacLean/Cosmic-Reach-Wayland-Outdated](https://github.com/Alex-MacLean/Cosmic-Reach-Wayland-Outdated) for the older outdated version of the mod based off glfw-wayland for the "vanilla" game
 </br></br>I am a Linux user who has an Nvidia graphics card and Xwayland tends to have many rendering bugs when running Cosmic Reach and many other games, so I added wayland support to Cosmic Reach.
