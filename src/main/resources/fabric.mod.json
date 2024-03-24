@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "${modid}",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "Wayland Support for Cosmic Reach!",
+  "authors": [
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.alexmaclean.waylandmod.WaylandMod"
+    ]
+  },
+  "mixins": [
+    "waylandmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "cosmic_reach": ">=0.1.0"
+  }
+}

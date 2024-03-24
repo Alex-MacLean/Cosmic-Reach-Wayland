@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.alexmaclean.waylandmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "Lwjgl3LauncherMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
