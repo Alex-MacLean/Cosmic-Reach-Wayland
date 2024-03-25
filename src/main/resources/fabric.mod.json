@@ -18,6 +18,6 @@
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
-    "cosmic_reach": ">=0.1.0"
+    "cosmic_reach": ">=0.0.1"
   }
 }
