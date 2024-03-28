@@ -1,7 +1,7 @@
 import de.undercouch.gradle.tasks.download.Download
 
 object Properties {
-    const val MOD_VERSION = "1.1"
+    const val MOD_VERSION = "1.2"
     const val MOD_NAME = "Wayland Mod"
     const val MODID = "waylandmod"
     const val MAVEN_GROUP = "com.github.alexmaclean.waylandmod"
