@@ -5,7 +5,7 @@ object Properties {
     const val MOD_NAME = "Wayland Mod"
     const val MODID = "waylandmod"
     const val MAVEN_GROUP = "com.github.alexmaclean.waylandmod"
-    const val COSMIC_REACH_VERSION = "0.1.13"
+    const val COSMIC_REACH_VERSION = "0.1.15"
     const val LOADER_VERSION = "0.15.7"
 }
 
